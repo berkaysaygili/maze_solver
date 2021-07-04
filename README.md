@@ -1,1 +1,1 @@
-# maze_solver
+I wrote this maze solver in C, and it uses A*, BFS, DFS and Greedy Search algorithms. They all follow the left hand rule which means the algorithm goes straight until it can't, then it turns left. It is similar to placing your hand to left wall in a maze and never let it leave the wall.
